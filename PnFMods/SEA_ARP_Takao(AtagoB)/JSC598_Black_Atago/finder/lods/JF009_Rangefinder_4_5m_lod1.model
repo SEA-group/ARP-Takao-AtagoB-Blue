@@ -1,0 +1,13 @@
+<JF009_Rangefinder_4_5m_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	12.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/finder/lods/JF009_Rangefinder_4_5m_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.148340 0.000043 -0.069892	</min>
+		<max>	0.148737 0.070720 0.070254	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/finder/lods/JF009_Rangefinder_4_5m_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF009_Rangefinder_4_5m_lod1.model>

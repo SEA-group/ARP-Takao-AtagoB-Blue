@@ -1,0 +1,88 @@
+<JD004_Director_Type_94_1_lod2.visual>
+	<boundingBox>
+		<min>	-0.106096 0.000000 -0.106855	</min>
+		<max>	0.110741 0.107878 0.104912	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	JD004_Director_Type_94_1	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	JD022_Director	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM006_Binocular_1	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 0.752450 0.000000	</row0>
+					<row1>	0.000000 0.752450 0.000000 0.000000	</row1>
+					<row2>	-0.752450 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.072544 0.003824 0.028881 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM006_Binocular_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 0.752450 0.000000	</row0>
+					<row1>	0.000000 0.752450 0.000000 0.000000	</row1>
+					<row2>	-0.752450 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.073509 0.004093 0.028881 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM011_Day_Light	</identifier>
+				<transform>
+					<row0>	0.420154 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.420154 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.420154 0.000000	</row2>
+					<row3>	-0.066296 0.078719 0.083141 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JD004_Director_Type_94_1	</node>
+		<geometry>
+			<vertices>	JD004_Director_Type_94_1_lodShape2.vertices	</vertices>
+			<primitive>	JD004_Director_Type_94_1_lodShape2.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_Director1	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD004_Director_Type_94_1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JD022_Director	</node>
+		<geometry>
+			<vertices>	JD022_Director_lodShape2.vertices	</vertices>
+			<primitive>	JD022_Director_lodShape2.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_Director	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JD004_Director_Type_94_1_lod2.visual>

@@ -1,0 +1,8 @@
+<JGT023_610mm4_Type_93R.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/gun/lods/JGT023_610mm4_Type_93R_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/gun/JGT023_610mm4_Type_93R	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT023_610mm4_Type_93R.model>

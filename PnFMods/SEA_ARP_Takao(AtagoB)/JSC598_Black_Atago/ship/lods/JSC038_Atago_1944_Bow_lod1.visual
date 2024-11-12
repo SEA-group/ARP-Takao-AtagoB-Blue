@@ -1,0 +1,176 @@
+<JSC038_Atago_1944_Bow_lod1.visual>
+	<boundingBox>
+		<min>	-0.448605 -0.500676 0.917320	</min>
+		<max>	0.420925 1.680490 6.702510	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Bow_wire	</identifier>
+				<transform>
+					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Torp	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_crack_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Bow_crack_MidFront_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront_wire	</identifier>
+				<transform>
+					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow	</node>
+		<geometry>
+			<vertices>	Bow_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Torp	</node>
+		<geometry>
+			<vertices>	Torp.vertices	</vertices>
+			<primitive>	Torp.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_TorpX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/JSC038_Atago_1944_Torp.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_wire	</node>
+		<geometry>
+			<vertices>	Bow_wire_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_wire_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIREX_PBSX_Hull_RemovedWire	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/DoesNotExist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront_in	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_in_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_in_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/JSC038_Atago_1944_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront_wire	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_wire_lod1Shape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_wire_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIREX_PBSX_Hull_RemovedWire	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/DoesNotExist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JSC038_Atago_1944_Bow_lod1.visual>

@@ -1,0 +1,17 @@
+<JD004_Director_Type_94_1.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD004_Director_Type_94_1_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD004_Director_Type_94_1_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD004_Director_Type_94_1_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/default_ao.tga	</Texture>
+	</property>
+</JD004_Director_Type_94_1.mfm>

@@ -1,0 +1,9 @@
+<JSC038_Atago_1944.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/lods/JSC038_Atago_1944_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/ship/JSC038_Atago_1944	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSC038_Atago_1944.model>

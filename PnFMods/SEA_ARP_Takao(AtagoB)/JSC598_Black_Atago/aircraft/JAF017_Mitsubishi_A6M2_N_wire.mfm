@@ -1,0 +1,14 @@
+<JAF017_Mitsubishi_A6M2_N_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/aircraft/JAF017_Mitsubishi_A6M2_N_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/aircraft/JAF017_Mitsubishi_A6M2_N_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/aircraft/JAF017_Mitsubishi_A6M2_N_mg.dds	</Texture>
+	</property>
+</JAF017_Mitsubishi_A6M2_N_wire.mfm>

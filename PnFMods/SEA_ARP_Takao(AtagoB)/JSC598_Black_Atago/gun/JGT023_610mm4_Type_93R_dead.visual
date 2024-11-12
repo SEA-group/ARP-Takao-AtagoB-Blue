@@ -1,0 +1,38 @@
+<JGT023_610mm4_Type_93R_dead.visual>
+	<boundingBox>
+		<min>	-0.131728 -0.004805 -0.282682	</min>
+		<max>	0.204483 0.078619 0.370114	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Type93R_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Type93R_dead	</node>
+		<geometry>
+			<vertices>	Type93R_deadShape.vertices	</vertices>
+			<primitive>	Type93R_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBSX_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/gun/JGT017_610mm4_Type_93_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGT023_610mm4_Type_93R_dead.visual>

@@ -1,0 +1,7 @@
+<APR003_FFAR_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/projectile/lods/APR003_FFAR_lod3	</parent>
+	<extent>	10.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/projectile/lods/APR003_FFAR_lod2	</nodefullVisual>
+	<metaData>	Wargaming.net	</metaData>
+</APR003_FFAR_lod2.model>

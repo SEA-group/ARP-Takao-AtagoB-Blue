@@ -1,0 +1,13 @@
+<JGT017_610mm4_Type_93L_dead.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/gun/lods/JGT017_610mm4_Type_93L_dead_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.192158 0.006090 -0.264752	</min>
+		<max>	0.131382 0.102023 0.367547	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/gun/JGT017_610mm4_Type_93L_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT017_610mm4_Type_93L_dead.model>

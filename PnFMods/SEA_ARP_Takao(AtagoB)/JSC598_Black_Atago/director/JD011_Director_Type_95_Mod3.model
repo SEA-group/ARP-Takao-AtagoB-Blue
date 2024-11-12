@@ -1,0 +1,13 @@
+<JD011_Director_Type_95_Mod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/lods/JD011_Director_Type_95_Mod3_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.072036 0.000000 -0.073889	</min>
+		<max>	0.072036 0.135235 0.070942	</max>
+	</visibilityBox>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/director/JD011_Director_Type_95_Mod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD011_Director_Type_95_Mod3.model>

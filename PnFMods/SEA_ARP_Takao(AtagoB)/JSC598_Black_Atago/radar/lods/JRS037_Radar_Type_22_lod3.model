@@ -1,0 +1,17 @@
+<JRS037_Radar_Type_22_lod3.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	JRS037_Radar_Type_22	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	30.000000	</extent>
+	<animation>
+		<name>	JRS037_Radar_Type_22	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/JRS037_Radar_Type_22	</nodes>
+	</animation>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/radar/lods/JRS037_Radar_Type_22_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS037_Radar_Type_22_lod3.model>

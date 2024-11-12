@@ -1,0 +1,9 @@
+<JAF017_Mitsubishi_A6M2_N.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/aircraft/lods/JAF017_Mitsubishi_A6M2_N_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_ARP_Takao(AtagoB)/JSC598_Black_Atago/aircraft/JAF017_Mitsubishi_A6M2_N	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAF017_Mitsubishi_A6M2_N.model>
