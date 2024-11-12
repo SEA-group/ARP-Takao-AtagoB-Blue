@@ -13,4 +13,4 @@ Presented by SEA group
 * **Steam客户端用户**请把`gui`、`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
 
 ## Preview
-![ARP-Takao-Blue-for-Atago-B](https://raw.githubusercontent.com/SEA-group/ARP-Takao-AtagoB-Blue/main/Affiche.jpg)
+![ARP-Takao-Blue-for-Atago-B](https://github.com/SEA-group/ARP-Takao-AtagoB-Blue/blob/main/Affiche.jpg?raw=true)
